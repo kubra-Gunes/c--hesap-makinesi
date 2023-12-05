@@ -18,19 +18,7 @@ namespace WindowsFormsApp14
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button20_Click(object sender, EventArgs e)
-        {
-              if (sayi1 == 0)
-
-                { lblSayi1.Text += "1"; }
-                else
-                { lblSayi2.Text += "1"; }
-
+      
         }        namespace _hesapmakinesi
     {
         public partial class Form1 : Form
